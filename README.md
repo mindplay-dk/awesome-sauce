@@ -1,8 +1,8 @@
 # awesome-sauce
 
-My awesome, creamy tomato sauce recipe.
+My awesome, creamy tomato sauce recipe - goes great with beef, chicken, turkey, probably fish too.
 
-I tried to make a sauce that hits all the notes: fat, sugar, salt, acid and umami.
+I tried to make a sauce that hits all the notes: fat, sugar, salt, acid, umami and subtle heat.
 
 Guests all wanted the recipe, so it's open sauce!
 
