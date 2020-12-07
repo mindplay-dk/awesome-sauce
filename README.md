@@ -27,7 +27,7 @@ Serves 4. Maybe. Depends on how greedy your guests get.
 
 #### Recipe
 
-1. Cook onion and garlic in butter, in a frying pan, over medium-high heat, for 10 minutes.
+1. Cook onion and garlic in butter, in a medium size frying pan, over medium-high heat, for 10 minutes.
 2. Add tomato paste and a bit of water - keep adding more water and stirring while it evaporates, for about 10 minutes, until the mixture gels.
 3. Stir in all remaining ingredients *except* cream, and cook for another couple of minutes, until it integrates.
 3. Remove from heat and let cool for a minute.
@@ -35,3 +35,5 @@ Serves 4. Maybe. Depends on how greedy your guests get.
 5. Pour into a sauce pan - gradually stir in the cream while heating the sauce on medium-low heat until barely boiling.
 
 You can make several portions of the sauce base (without cream) and freeze it.
+
+Use a medium (20 cm) frying pan, or a large (30 cm) pan for a double serving. (If the onion is spread too thin, it'll burn rather than gel.)
