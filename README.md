@@ -21,6 +21,7 @@ Serves 4. Maybe. Depends on how greedy your guests get.
 * 1 tsp chili
 * 1 tsp curry
 * 1 1/2 tbsp honey
+* 1 tbsp vegetable fond
 * 2 tsp salt
 * Water
 * 1/4 L heavy whipping cream
