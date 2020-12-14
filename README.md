@@ -10,7 +10,7 @@ Guests all wanted the recipe, so it's open sauce!
 
 Serves 4. Maybe. Depends on how greedy your guests get.
 
-* 2 large onions, finely chopped
+* 2 medium-size onions, finely chopped
 * 2 cloves of garlic, finely chopped
 * 20 g of butter
 * 4 tbsp tomato paste
